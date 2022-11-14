@@ -1,0 +1,32 @@
+h1 {
+        color: #8B5F65; 
+        font-family: arial; 
+        font-size: 28pt; 
+        font-style: oblique; 
+        text-align: center;
+}
+       
+body { 
+        background-color: #CDB5CD;
+        font-family: verdana;
+        font-size: 12pt;
+        font-style: italic;
+        text-align: center;
+} 
+
+h3 { 
+        color: #8B475D;
+        font-family: Times New Roman;
+        font-size:  22pt;
+        font-style: normal;
+        text-align: center;
+}
+
+p {
+        color: #000000;
+        font-family: arial; 
+        font-size: l5pt;
+        font-style: italic;
+        text-align: center;
+}
+ 

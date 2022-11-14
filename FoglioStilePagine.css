@@ -1,0 +1,41 @@
+body { 
+        background-color: #EEE0E5;
+        font-family: verdana;
+        font-style: normal;
+        text-align: left;
+        font-size: 12pt;  
+}
+
+h1 {
+        color: #8B5F65; 
+        font-family: arial; 
+        font-size: 20pt; 
+        font-style: oblique; 
+        text-align: center;}
+       
+h3 { 
+        color: #8B668B;
+        font-size:  16pt;
+        font-style: normal;
+        text-align: left;
+}
+
+h4 { 
+        color: #000000;
+        font-size:  11pt;
+        font-style: normal;
+        text-align: justify;
+}
+
+h5 { 
+        color: #000000;
+        font-size:  11pt;
+        font-style: normal;
+        text-align: left;
+}
+
+p {
+        color: #000000;
+        font-family: arial; 
+        font-size: l2pt;
+}
